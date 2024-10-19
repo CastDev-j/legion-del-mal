@@ -25,3 +25,6 @@
 23. Scarecrow
 24. Bane
 25. Killer Frost
+26. Cheetah
+27. Black Adam
+28. Black Mask
